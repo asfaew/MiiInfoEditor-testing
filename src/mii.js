@@ -1,5 +1,5 @@
 const MII_FILE_SIZE = 0x4A;
-const MII_NAME_LENGTH = 10;
+const MII_NAME_LENGTH = 1000;
 const ID_LENGTH = 0x4;
 const UNEDIT1_SIZE = 2;
 const UNEDIT2_SIZE = 0x14;
